@@ -13,3 +13,5 @@ CMakeUserPresets.json
 .idea
 cmake-build-*
 .DS_Store
+.ccls-cache
+build.sh
